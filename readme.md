@@ -6,7 +6,7 @@ Instead of using a conventional portfolio layout, this project creates an immers
 
 ## 🌐 Live Demo
 
-[Visit My Portfolio](YOUR_NETLIFY_URL)
+[Visit My Portfolio](https://portfolio-bambangistijab.netlify.app/)
 
 ## ✨ Features
 
