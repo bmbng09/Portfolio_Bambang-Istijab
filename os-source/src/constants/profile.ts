@@ -33,7 +33,7 @@ export const PROFILE = {
     photo: 'foto1.png',
     photoCaption: 'Bams',
     intro:
-        'Nama saya Bambang Istijab, biasa dipanggil Bams, mahasiswa Informatika di Universitas Pertamina yang senang mengubah masalah sehari-hari jadi sistem yang beneran jalan. Dari presensi sekolah berbasis RFID, riset data & LLM, sampai ngurusin Media & IT sekolah, saya belajar sambil terus bikin sesuatu yang nyata dipakai orang.',
+        'Nama saya Bambang Istijab, biasa dipanggil Bams, mahasiswa Fakultas Sains dan Ilmu Komputer Universitas Pertamina yang senang mengubah masalah sehari-hari jadi sistem yang beneran jalan. Dari presensi sekolah berbasis RFID, riset data & LLM, sampai ngurusin Media & IT sekolah, saya belajar sambil terus bikin sesuatu yang nyata dipakai orang.',
     highlights: [
         'Komunikasi jelas & progress selalu keliatan',
         'Bikin sistem yang beneran dipakai, bukan cuma demo',
@@ -103,7 +103,7 @@ export const EXPERIENCE = [
 export const EDUCATION = [
     {
         org: 'Universitas Pertamina',
-        role: 'S1 Informatika',
+        role: 'S1 Ilmu Komputer',
         period: '2022 - Sekarang',
         desc: 'IPK 3.34 / 4.00',
     },
@@ -111,18 +111,6 @@ export const EDUCATION = [
         org: 'SMK Negeri 12 Kab. Tangerang',
         role: 'Teknik Komputer & Jaringan',
         period: '2019 - 2022',
-        desc: '',
-    },
-    {
-        org: 'SMP YUPPENTEK 1 Legok',
-        role: 'Pendidikan Menengah Pertama',
-        period: '2016 - 2019',
-        desc: '',
-    },
-    {
-        org: 'SDN Palasari IV',
-        role: 'Pendidikan Dasar',
-        period: '2010 - 2016',
         desc: '',
     },
 ];
